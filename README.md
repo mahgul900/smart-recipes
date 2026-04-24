@@ -25,16 +25,16 @@ A full-stack recipe sharing web application built as a Final Year Project using 
 ![Submit Recipe](screenshots/submit-recipe.png)
 ---
 
-## Features
+- ## ✨ Key Features
 
-- **Ingredient Alternatives Search** — Search any ingredient and find community-rated substitutes with usage tips and notes
-- **Recipe Submission** — Authenticated users can submit recipes with step-by-step instructions and images
-- **Recipe Reviews and Ratings** — Users can rate and review recipes; highest rated content appears first
-- **Top Recipes on Homepage** — The three highest-rated recipes are featured on the landing page
-- **User Authentication** — Register, login, and manage personal recipes and reviews
-- **My Recipes / My Reviews** — Personal dashboard for managing submitted content
-- **Admin Role** — Admin users have full control over recipes and site content
-
+- 🔍 Ingredient Alternatives Search  
+- 🍲 Recipe Submission with Images  
+- ⭐ Ratings & Reviews System  
+- 🏆 Top Rated Recipes on Homepage  
+- 👤 User Authentication System  
+- 📊 Personal Dashboard (My Recipes / Reviews)  
+- 🛠️ Admin Control Panel  
+- 🌙 Dark Mode Support  
 ---
 
 ## Tech Stack
@@ -61,7 +61,7 @@ A full-stack recipe sharing web application built as a Final Year Project using 
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/smart-recipes.git
+git clone https://github.com/mahgul900/smart-recipes.git
 cd smart-recipes
 ```
 
@@ -168,6 +168,14 @@ php artisan db:seed --class=IngredientAlternativesSeeder
 
 ---
 
+## 🚀 Future Improvements
+
+- Advanced search filters (by ingredients, rating)
+- AI-based recipe suggestions
+- Bookmark / favorite recipes
+- Recipe recommendation system
+- Mobile app version
+
 ## Frontend Contributions
 
 As the frontend developer on this project, my responsibilities included:
@@ -185,3 +193,11 @@ As the frontend developer on this project, my responsibilities included:
 ## License
 
 This project was developed for academic purposes as a Final Year Project.
+
+## 👩‍💻 Author
+
+Mah Gul  
+Frontend Developer  
+Passionate about building user-friendly web applications  
+
+GitHub: https://github.com/mahgul900
