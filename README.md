@@ -8,14 +8,21 @@ A full-stack recipe sharing web application built as a Final Year Project using 
 
 ## Screenshots
 
-
-```
 ![Homepage](screenshots/homepage.png)
-![Recipe Detail](screenshots/recipe-detail.png)
-![Ingredient Alternatives](screenshots/alternatives.png)
-![Submit Recipe](screenshots/submit-recipe.png)
-```
 
+![Homepage Bottom](screenshots/homepage-bottom.png)
+
+![Dashboard](screenshots/dashboard.png)
+
+![All Recipes](screenshots/recipes.png)
+
+![Login](screenshots/login.png)
+
+![Recipe Detail](screenshots/recipe-detail.png)
+
+![Ingredient Alternatives](screenshots/alternatives.png)
+
+![Submit Recipe](screenshots/submit-recipe.png)
 ---
 
 ## Features
