@@ -8,8 +8,6 @@ A full-stack recipe sharing web application built as a Final Year Project using 
 
 ## Screenshots
 
-> Add your screenshots after running the project locally.  
-> Place images in a `/screenshots` folder and reference them below.
 
 ```
 ![Homepage](screenshots/homepage.png)
